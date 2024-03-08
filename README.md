@@ -1,4 +1,13 @@
-### work-in-progress
+### Welcome to Beck's Profile.
+---
+I am an undergraduate student of Computer Science. (2023-2026)
+I desire to be a knowledgeable, reliable, supportive developer and scholar.
+My CS-related interests include:
+- computation theory
+- operating systems
+- game development
+- graphics programming
+- computer science education
 
 <!--
 **bek000han/bek000han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
