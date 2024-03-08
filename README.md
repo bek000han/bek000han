@@ -3,7 +3,7 @@ I am an undergraduate student of Computer Science. (2023-2026) <br>
 I desire to be a knowledgeable, reliable, supportive developer and scholar. <br>
 I am interested in computation, compilation, software design, graphics and CS education.<br>
 <br>
-You can reach me by email: bekuniversity@gmail.com
+You can reach me by email: bekuniversity@gmail.com <br>
 And you can visit my website: https://bekzportfolio.netlify.app/ (deprecating)
 <!--
 **bek000han/bek000han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
