@@ -1,5 +1,6 @@
 # welcome to my profile.
-I am an undergraduate student of Computer Science (2023-2026), you can call me Bekz. <br>
+Thanks for checking out my profile, call me Bekz/Beck.
+I am an undergraduate student of Computer Science (2023-2026) <br>
 I desire to be a knowledgeable, reliable, supportive developer and scholar. <br>
 I am interested in computation, compilation, software design, graphics and CS education.<br>
 <br>
