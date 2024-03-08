@@ -1,4 +1,4 @@
-# Welcome to Beck's Profile.
+# Welcome to my profile.
 I am an undergraduate student of Computer Science. (2023-2026) <br>
 I desire to be a knowledgeable, reliable, supportive developer and scholar. <br>
 I am interested in computation, compilation, software design, graphics and CS education.<br>
