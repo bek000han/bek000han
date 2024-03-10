@@ -4,9 +4,9 @@ I am pursuing a bachelor's in computer science. (2023-2026) <br>
 I desire to be a knowledgeable, supportive developer and scholar. <br>
 I am interested in computation, compilation, game development, graphics and CS education.<br>
 <br>
-Reach me by email: bekuniversity@gmail.com <br>
-Visit my website: bekzportfolio.netlify.app/  (deprecating)<br>
-Connect on LinkedIn: www.linkedin.com/in/bekzatkhanmaulen2003/  <br>
+Reach me by email: [bekuniversity@gmail.com](mailto:bekuniversity@gmail.com) <br>
+Visit my website: [bekzportfolio.netlify.app](https://bekzportfolio.netlify.app/) (deprecating)<br>
+Connect on LinkedIn: [linkedin.com/in/bekzatkhanmaulen2003/](https://www.linkedin.com/in/bekzatkhanmaulen2003/)<br>
 <!--
 **bek000han/bek000han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
