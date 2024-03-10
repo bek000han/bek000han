@@ -2,7 +2,7 @@
 Call me Bekz/Beck, and thanks for checking out my GitHub. <br>
 I am pursuing a bachelor's in Computer Science. (2023-2026) <br>
 I desire to be a knowledgeable, supportive developer and scholar. <br>
-I am interested in computation, compilation, software design, graphics and CS education.<br>
+I am interested in computation, compilation, game development, graphics and CS education.<br>
 <br>
 Reach me by email: bekuniversity@gmail.com <br>
 Visit my website: www.bekzportfolio.netlify.app/  (deprecating)<br>
