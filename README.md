@@ -5,7 +5,7 @@ I desire to be a knowledgeable, supportive developer and scholar. <br>
 I am interested in computation, compilation, game development, graphics and CS education.<br>
 <br>
 Reach me by email: bekuniversity@gmail.com <br>
-Visit my website: www.bekzportfolio.netlify.app/  (deprecating)<br>
+Visit my website: bekzportfolio.netlify.app/  (deprecating)<br>
 Connect on LinkedIn: www.linkedin.com/in/bekzatkhanmaulen2003/  <br>
 <!--
 **bek000han/bek000han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
