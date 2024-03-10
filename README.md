@@ -1,6 +1,6 @@
 # welcome to my profile.
 Call me Bekz/Beck, and thanks for checking out my GitHub. <br>
-I am pursuing a bachelor's in Computer Science. (2023-2026) <br>
+I am pursuing a bachelor's in computer science. (2023-2026) <br>
 I desire to be a knowledgeable, supportive developer and scholar. <br>
 I am interested in computation, compilation, game development, graphics and CS education.<br>
 <br>
