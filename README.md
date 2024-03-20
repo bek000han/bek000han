@@ -1,5 +1,5 @@
 # welcome to my profile.
-Call me Bekz/Beck, and thanks for checking out my GitHub. <br>
+Thanks for checking out my GitHub, call me Bekz/Beck. <br>
 I am pursuing a bachelor's in computer science. (2023-2026) <br>
 I desire to be a knowledgeable, supportive developer and scholar. <br>
 I am interested in computation, networks, game development, graphics and CS education.<br>
