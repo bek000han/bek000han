@@ -1,9 +1,9 @@
 # Welcome to my profile.
-Thanks for checking out my GitHub, call me Bekz/Beck. <br>
-I am pursuing a bachelor's in computer science (2023-2026). <br>
-I desire to be a knowledgeable, supportive developer and scholar. <br>
-Relevant interests: systems programming, networking, computation and gamedev.<br>
-Extracurricular interests: cinema, agriculture, linguistics and geography.<br>
+Thanks for checking out my GitHub profile, call me Bekz/Beck. <br>
+Currently pursuing a B.Sc. in Computer Science (2023-2026), M.Sc. hopefully too. <br>
+I strive to be a knowledgeable, supportive and scholarly developer. <br>
+Relevant interests: systems programming, networking, computation, gamedev.<br>
+Extracurricular interests: cinema, agriculture, linguistics, geography.<br>
 <br>
 Reach me by email: [bekuniversity@gmail.com](mailto:bekuniversity@gmail.com) <br>
 Visit my website: [bek000han.github.io/](https://bek000han.github.io/) <br>
