@@ -1,6 +1,6 @@
 # Welcome to my profile.
 Thanks for checking out my GitHub profile, call me Bekz/Beck. <br>
-Currently pursuing a B.Sc. in Computer Science (2023-2026), M.Sc. hopefully too. <br>
+Currently pursuing a B.Sc. in Computer Science (2023-2026), with plans for M.Sc. <br>
 I strive to be a knowledgeable, supportive and scholarly developer. <br>
 Relevant interests: systems programming, networking, computation, gamedev.<br>
 Extracurricular interests: cinema, agriculture, linguistics, geography.<br>
