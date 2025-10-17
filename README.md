@@ -3,7 +3,7 @@ Thanks for checking out my GitHub profile, call me Beck. <br>
 Currently pursuing a B.Sc. in Computer Science (2023-2026), with plans for M.Sc. <br>
 I strive to be a knowledgeable, supportive, scholarly student and developer. <br>
 <br>
-Relevant interests: network engineering, wireless networks, mobile networks, network protocols, opensource network emulators.<br>
+Relevant interests: network engineering, wireless & mobile networks, network protocols, opensource network sims/ems.<br>
 Extracurricular interests: cinema/films, linguistics, history, finance, gamedev. <br>
 <br>
 Reach me by email: [bekuniversity@gmail.com](mailto:bekuniversity@gmail.com) <br>
