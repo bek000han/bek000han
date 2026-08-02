@@ -1,5 +1,5 @@
 # Greetings.
-Thanks for checking out my GitHub profile, call me Beck. <br>
+Thanks for checking out my GitHub profile, my name is Beck. <br>
 1st-Class BSc Hons. in Computer Science (2026), with plans for M.Sc. <br>
 I strive to be a knowledgeable, supportive, scholarly student and developer. <br>
 <br>
