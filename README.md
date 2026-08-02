@@ -4,7 +4,7 @@ Thanks for checking out my GitHub profile, my name is Beck. <br>
 
 My ethos: "Always strive to be inquisitive, supportive and scholarly." <br>
 <br>
-Research interests: custom protocols, wireless & mobile networks, ad-hoc systems, satellites & drones.<br>
+Research interests: custom protocols, wireless & mobile, SDN (P4), ad-hoc systems, satellites & drones.<br>
 Extracurricular interests: film, linguistics, history, finance, gamedev. <br>
 <br>
 Reach me by email: [bekuniversity@gmail.com](mailto:bekuniversity@gmail.com) <br>
