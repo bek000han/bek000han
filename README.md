@@ -2,7 +2,7 @@
 Thanks for checking out my GitHub profile, my name is Beck. <br>
 1st-Class BSc Hons. in Computer Science (2026), with plans for M.Sc. <br>
 
-"I strive to be a knowledgeable, supportive, scholarly student and developer." <br>
+My ethos: "Always strive to be inquisitive, supportive and scholarly." <br>
 <br>
 Relevant interests: network protocols, wireless & mobile networks, network sims/ems.<br>
 Extracurricular interests: film, linguistics, history, finance, gamedev. <br>
